@@ -7,5 +7,10 @@
   "Tags": [
     "crafting",
     "plugin"
-  ]
+  ],
+  "CategoryTags": [
+    "Jobs",
+    "Utility"
+  ],
+  "DownloadLinkInstallation": "https://github.com/recypher-zz/AutoSynthesis/releases/download/v0.1.0/AutoSynthesis-v0.1.0.zip"
 }
