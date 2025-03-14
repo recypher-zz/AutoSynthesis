@@ -1,0 +1,11 @@
+{
+  "Author": "Cypher",
+  "Name": "AutoSynthesis",
+  "Punchline": "Synthesis... but with Auto in front.",
+  "Description": "A plugin that automatically synthesizes items for you.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "crafting",
+    "plugin"
+  ]
+}
